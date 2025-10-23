@@ -1,0 +1,6 @@
+# All the numbers in this data file are integers.
+2
+5
+3
+0
+-1
